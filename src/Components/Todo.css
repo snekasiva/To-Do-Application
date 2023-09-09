@@ -1,0 +1,44 @@
+.container-fluid{
+    width: 35%;
+    
+    margin-top: 10%;
+    background-color: white;
+    border: none;
+    padding: 30px;
+    justify-content: flex-end;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+}
+.form-group{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    margin: 20px;
+    width: auto;
+}
+button{
+  margin-left: 10px;
+  background-color: transparent;
+  color: black;
+  border-radius: 5px; 
+  padding: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.list{
+    margin-top: 50px !important;
+    margin-left: -300px;
+    margin-right: 20px;
+}
+li{
+    margin-left: 20px;
+    align-content: center;    
+}
+
+.inside{
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
